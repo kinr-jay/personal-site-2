@@ -26,6 +26,16 @@ h3{
 
 a{
     color: #df7861;
+    font-family: "Montserrat", sans-serif;
+}
+
+a:hover{
+    color: #fcf8e8;
+}
+
+.footer-link{
+    margin: 10px 20px;
+    text-decoration: none;
 }
 
 hr{
@@ -57,7 +67,7 @@ hr{
 
 .bottom-container{
     background-color: #d4e2d4;
-    padding-top: 10px;
+    padding: 10px 0 10px 0;
 }
 
 .intro{
@@ -85,7 +95,12 @@ hr{
     width: 50%;
 }
 
+.copyright{
+    color: #fcf8e8;
+}
+
 .icon-credits{
+    color: #fcf8e8;
     margin-bottom: 0;
     padding-bottom: 16px;
 }
